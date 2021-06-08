@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Table, Button, Header, Icon } from "semantic-ui-react";
 import JobAdvertService from "../../services/jobAdvertService";
 
-export default function JobAdvertList() {
+export default function JobAdverstList() {
   const [adverts, setAdverts] = useState([]);
 
   useEffect(() => {
@@ -16,7 +16,7 @@ export default function JobAdvertList() {
     <div>
       <Header as="h2">
         <Icon name="coffee" />
-        <Header.Content>Job Advert List</Header.Content>
+        <Header.Content>Job Adverts List</Header.Content>
       </Header>
       <Table color="purple" key="purple">
         <Table.Header>
