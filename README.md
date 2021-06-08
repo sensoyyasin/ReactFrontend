@@ -2,6 +2,10 @@
 
 ![Tables](https://user-images.githubusercontent.com/73845925/121144045-512b7300-c846-11eb-9a20-44c978dc3a39.png)
 
+# Job Adverts List
+![JOBADVERTLİST](https://user-images.githubusercontent.com/73845925/121181386-9feb0400-c86a-11eb-9ad2-fd1e5e1032a7.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
